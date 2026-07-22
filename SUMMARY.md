@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Mamarek Wiki (Documentation page)](README.md)
